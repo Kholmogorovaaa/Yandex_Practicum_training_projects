@@ -1,4 +1,4 @@
-# Учебные проекты по Data Science
+<h1 align="center">Учебные проекты по Data Science</h1>
 <p align="center"><img src='https://media.discordapp.net/attachments/997261020609384458/1061901777278074890/kholmogorova_midjourney_intellect_c6e1bc6b-b500-42ec-a769-a9e5bf3fd94d.png?width=610&height=610' width="400" height="400"></p>
 
 Все проекты выполнены в *Jupiter Notebook*, датасеты не приложены, выложены готовые варианты. 
