@@ -1,5 +1,5 @@
 # Учебные проекты от Яндекс Практикум
-<p align="center"><img src='https://media.discordapp.net/attachments/997261020609384458/1061883801694916689/kholmogorova_midjourney_intellect_7503ef91-1629-4749-971a-ddb49a710187.png?width=610&height=610'></p>
+<p align="center"><img src='https://cdn.midjourney.com/f7036b24-bb78-403c-911a-96929b13fea6/grid_0.png'></p>
 
 Все проекты выполнены в *Jupiter Notebook*, датасеты не приложены, выложены готовые варианты. 
 Представлены проекты, которые были для меня очень интересными, в действительночти выполнено более 15 проектов за время обучения.
